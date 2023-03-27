@@ -1,0 +1,24 @@
+# Visual Studio .vs directory
+.vs/
+
+# .suo files
+*.suo
+
+# C++ binary files
+*.exe
+*.dll
+*.pdb
+
+# Object files and libraries
+*.obj
+*.o
+*.lib
+*.a
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
