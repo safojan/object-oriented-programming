@@ -2,7 +2,7 @@
 
 
 ## What are virtual Functions in c++ ?
-- Nn simple words
+- In simple words
 Virtual function is a member function
 decleared in base class /parent class
 is redefined (overridden) by the drived/child class
