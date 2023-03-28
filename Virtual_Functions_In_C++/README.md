@@ -52,3 +52,7 @@ function prints a message saying that the dog barks.
 
 `In the main() function, a Dog object is created. A pointer of type Animal\* is created and assigned the address of the Dog object using the & operator. Then, the makeSound() function is called on the animalPtr pointer. Since makeSound() is virtual and animalPtr points to a Dog object, the Dog version of makeSound() is executed,
 which prints the message saying that the dog barks.
+
+
+
+
