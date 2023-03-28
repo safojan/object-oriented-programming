@@ -12,7 +12,7 @@
 oh the last point is a difficult one let understand it with a
 simple code.
 
-lets we have a class called animal.
+lets we have a class called animal 🐉 .
 
 ```
 class animal{
@@ -23,7 +23,7 @@ class animal{
 }
 ```
 
-now we have a derived class dog
+now we have a derived class dog 🐶
 
 ```
 class Dog : public Animal {
